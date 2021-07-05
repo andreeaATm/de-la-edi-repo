@@ -64,7 +64,25 @@ _This is sample italic text_
 
 ![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif=100x100)                    
 
+# Images =90x
 
+![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
+![Image with reference][reference-3]  
+![Image from file](mars.jpg)
+
+![Image from file](mars.jpg=90x)     
+
+![Image from file](Capture.PNG=100x100=90x)   
+
+![Image from file](download.jfif=90x)       
+
+![Image from file](jpeg-home.jp=90x)     
+
+![Image from file](NewTux.svg=90x)       
+
+![Image from file](train-5286580_1920.webp=90x)       
+
+![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif=90x)  
 
 
 # Blockquotes
