@@ -29,7 +29,7 @@ This is a [link][reference-2] to reference-2
 ![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
 ![Image with reference][reference-3]  
 ![Image from file](mars.jpg)              
-![Image from file](Capture.png)           
+![Image from file](Capture.PNG)           
 ![Image from file](download.jfif)            
 ![Image from file](jpeg-home.jpg)               
 ![Image from file](NewTux.svg)                
@@ -37,10 +37,16 @@ This is a [link][reference-2] to reference-2
 ![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif)                    
 
 
-# Videos
-
-[Sample Video](https://www.youtube.com/watch?v=m8DL12m9D8U)  
-[![https://st.motortrend.com/uploads/sites/10/2015/09/2016-Lamborghini-Aventador-LP-750-4-Superveloce-front-three-quarter-in-motion-026.jpg?interpolation=lanczos-none&fit=around|392:261](http://img.youtube.com/vi/m8DL12m9D8U/0.jpg)](http://www.youtube.com/watch?v=m8DL12m9D8U "Sample Video 2")
+# Images with capital
+[Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
+![Image with reference][reference-3]  
+![Image from file](mars.JPG)              
+![Image from file](Capture.PNG)           
+![Image from file](download.JFIF)            
+![Image from file](jpeg-home.JPG)               
+![Image from file](NewTux.SVG)                
+![Image from file](train-5286580_1920.WEBP)                   
+![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.GIF)   
 
 # Blockquotes
 
