@@ -28,13 +28,13 @@ This is a [link][reference-2] to reference-2
 
 ![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
 ![Image with reference][reference-3]  
-![Image from file](mars.jpg)
-![Image from file](Capture.png)
-![Image from file](download.jfif)
-![Image from file](jpeg-home.jpg)
-![Image from file](NewTux.svg)
-![Image from file](train-5286580_1920.webp)
-![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif)
+![Image from file](mars.jpg)              
+![Image from file](Capture.png)           
+![Image from file](download.jfif)            
+![Image from file](jpeg-home.jpg)               
+![Image from file](NewTux.svg)                
+![Image from file](train-5286580_1920.webp)                   
+![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif)                    
 
 
 # Videos
