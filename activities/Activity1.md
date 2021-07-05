@@ -25,8 +25,7 @@ _This is sample italic text_
 
 # Images =100x30
 
-![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
-![Image with reference][reference-3]  
+  
 
 ![Image from file](mars.jpg=100x30)              
 ![Image from file](Capture.PNG=100x30)           
