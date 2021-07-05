@@ -24,7 +24,40 @@ Please access the following [link](www.google.com)
 This is a [link][reference-1] to reference-1  
 This is a [link][reference-2] to reference-2  
 
+# Images =100x30
+
+![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
+![Image with reference][reference-3]  
+![Image from file](mars.jpg=100x30)              
+![Image from file](Capture.PNG=100x30)           
+![Image from file](download.jfif=100x30)            
+![Image from file](jpeg-home.jpg=100x30)               
+![Image from file](NewTux.svg=100x30)                
+![Image from file](train-5286580_1920.webp=100x30)                   
+![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif=100x30)                    
+
+
+
+
+# Images=200x
+
+
+
+![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
+![Image with reference][reference-3]  
+![Image from file](mars.jpg=200x)              
+![Image from file](Capture.PNG=200x)           
+![Image from file](download.jfif=200x)            
+![Image from file](jpeg-home.jpg=200x)               
+![Image from file](NewTux.svg=200x)                
+![Image from file](train-5286580_1920.webp=200x)                   
+![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif=200x)  
+
+
+
 # Images
+
+
 
 ![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
 ![Image with reference][reference-3]  
@@ -34,19 +67,11 @@ This is a [link][reference-2] to reference-2
 ![Image from file](jpeg-home.jpg)               
 ![Image from file](NewTux.svg)                
 ![Image from file](train-5286580_1920.webp)                   
-![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif)                    
+![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif)  
 
 
-# Images with capital
-[Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
-![Image with reference][reference-3]  
-![Image from file](mars.JPG)              
-![Image from file](Capture.PNG)           
-![Image from file](download.JFIF)            
-![Image from file](jpeg-home.JPG)               
-![Image from file](NewTux.SVG)                
-![Image from file](train-5286580_1920.WEBP)                   
-![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.GIF)   
+
+
 
 # Blockquotes
 
@@ -79,18 +104,7 @@ This is a [link][reference-2] to reference-2
         * List element 1.2.1  
         * List element 1.2.2  
 
-# Paragraphs
 
-Paragraph line 1  
-Paragraph line 2  
-
-# Table
-
-| Header1   | Header2  | Header3  |
-|   :---    |   :---:  |    ---:  |
-| info1     |    ✔    |     ❗    |
-| info2     |    ✔    |     ❗    |
-| info3     |    ✔    |     ❗    |
 
 # References (should not be displayed)
 
