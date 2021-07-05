@@ -24,6 +24,47 @@ _This is sample italic text_
 
 ![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif)                    
 
+# Images =100x30
+
+![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
+![Image with reference][reference-3]  
+![Image from file](mars.jpg)
+
+![Image from file](mars.jpg=100x30)     
+
+![Image from file](Capture.PNG=100x30)   
+
+![Image from file](download.jfif=100x30)       
+
+![Image from file](jpeg-home.jpg=100x30)     
+
+![Image from file](NewTux.svg=100x30)       
+
+![Image from file](train-5286580_1920.webp=100x30)        
+
+![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif=100x30) 
+
+# Images =100x100
+
+![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
+![Image with reference][reference-3]  
+![Image from file](mars.jpg)
+
+![Image from file](mars.jpg=100x100)     
+
+![Image from file](Capture.PNG=100x100=100x100)   
+
+![Image from file](download.jfif=100x100)       
+
+![Image from file](jpeg-home.jpg=100x100)     
+
+![Image from file](NewTux.svg=100x100)       
+
+![Image from file](train-5286580_1920.webp)=100x100        
+
+![Image from file](free-gif-maker-apps-for-iphone-and-android-3486328-5419dd7227e145d39ef6566d52238835.gif=100x100)                    
+
+
 
 
 # Blockquotes
