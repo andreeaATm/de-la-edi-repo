@@ -5,8 +5,7 @@ _This is sample italic text_
 **_This is sample bold and italic text_**  
 
 # Images 
-![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
-![Image with reference][reference-3]  
+
 
 ![Image from file](mars.jpg)     
 
@@ -42,8 +41,7 @@ _This is sample italic text_
 
 
 
-![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
-![Image with reference][reference-3]  
+ 
 ![Image from file](mars.jpg=200x)              
 ![Image from file](Capture.PNG=200x)           
 ![Image from file](download.jfif=200x)            
@@ -59,8 +57,7 @@ _This is sample italic text_
 
 
 
-![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg)  
-![Image with reference][reference-3]  
+  
 ![Image from file](mars.jpg=1000000x1000000)              
 ![Image from file](Capture.PNG=1000000x1000000)           
 ![Image from file](download.jfif=1000000x1000000)            
