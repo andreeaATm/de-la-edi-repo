@@ -1,7 +1,7 @@
 {
    "name":"Activity 1 - Repo 1",
    "priority": 100,
-   "shortDescription": "Test Activity on eduard-repo in master branch",
+   "shortDescription": "Prio 100",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
    "topology": [
