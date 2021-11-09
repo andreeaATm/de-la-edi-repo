@@ -1,0 +1,14 @@
+{
+   "name":"Activity 4 - Repo 1",
+   "priority": 10,
+   "shortDescription": "Test Activity on eduard-repo in master branch",
+   "icon":"customActivityManual.svg",
+   "descriptionMarkdown":"Activity1.md",
+   "topology": [
+{
+      "name": "Topology 1",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topologyXPath is the language used for locating nodes in an XML document. As HTML can be an implementation of 12222?><//!@#$%^&*()_",
+      "reservationDuration":""
+    }]
+}
