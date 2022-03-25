@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<testCase version="9.0.0.202203140149">
+    <general>
+        <documentation>headline  field for tc Abc</documentation>
+        <tags>ABC</tags>
+        <notes>description for ABC</notes>
+        <language>Python</language>
+        <xPathVersion>XPATH31</xPathVersion>
+    </general>
+    <procedures>
+        <item name="main">
+            <steps>
+                <item guid="55266c4d-f6ad-4f18-bcb6-65f19d5990e7" action="for" useFieldsInCommand="false">
+                    <command>
+                        <body>i in range(0, 10):</body>
+                    </command>
+                    <nestedSteps>
+                        <item guid="94a0380f-620c-4c23-8d80-7c87c0ac235a" action="comment" useFieldsInCommand="false">
+                            <command>
+                                <body>Insert steps here to be executed on each loop</body>
+                            </command>
+                            <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                        </item>
+                        <item guid="4d085185-d98a-4064-8de5-566c77476c44" action="eval" useFieldsInCommand="false">
+                            <command>
+                                <body>print (&quot;This is tc ABC &quot;)</body>
+                            </command>
+                            <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                        </item>
+                    </nestedSteps>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+            </steps>
+        </item>
+    </procedures>
+</testCase>

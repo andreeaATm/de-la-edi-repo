@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<testCase version="9.0.0.202203190149">
+    <general>
+        <documentation>headline  field for tc A</documentation>
+        <tags>A</tags>
+        <language>Python</language>
+        <xPathVersion>XPATH31</xPathVersion>
+    </general>
+    <procedures>
+        <item name="main">
+            <steps>
+                <item guid="b21942ce-32ab-4e51-a610-3c537d5d684c" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A&quot;)</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="13fad864-2d7b-4efd-acf9-2be68a789a90" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;, param(&apos;param1&apos;))</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="743356c0-1b7f-454b-a39a-5d5c8acda0e7" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;, param(&apos;param2&apos;))</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="ca0fd200-75fc-4db7-8897-9f51efb47830" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;, param(&apos;param3&apos;))</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="1059c2b2-3901-4d64-87a1-563c8be56339" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;, param(&apos;param4&apos;))</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="4643e4f8-c7c1-465e-9cac-92d5a23fc6f7" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;, param(&apos;param5&apos;))</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="7b60eb49-c8da-40ea-837d-c06d45ffdbd0" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;, param(&apos;param6&apos;))</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="a877faa0-3f6b-419f-8c15-843277cbb2bb" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;, param(&apos;param7&apos;))</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="8610b3e6-be9c-4ca7-a1d0-fa14169e69e5" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;, param(&apos;param8&apos;))</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="347d73eb-f464-4e0c-b6e8-fcac9a1dd5ec" action="eval" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;,param(&apos;param9&apos;) )</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+                <item guid="7189e711-9958-4642-a2f4-2c098ae732a0" action="eval" skip="true" useFieldsInCommand="false">
+                    <command>
+                        <body>print (&quot;This is tc A and the param file are : &quot;,param(&apos;param_secrete&apos;) )</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                </item>
+            </steps>
+        </item>
+    </procedures>
+</testCase>
