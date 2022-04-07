@@ -1,2 +1,0 @@
-# eduard-repo
-Test Repository
